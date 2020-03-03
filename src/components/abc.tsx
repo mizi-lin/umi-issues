@@ -1,4 +1,4 @@
-import styles from '@/pages/index.css';
+import styles from '@/pages/index.less';
 import React from 'react';
 
 export default function() {
